@@ -15,12 +15,12 @@ I started to understand some of the JS syntax and functions.
 
 ## Installation
 
-Go to this link to use 
+Go to this link to use https://nathansabin.github.io/password-genrator/
 
 ## Usage
 
-![alt text](/password-gen-homework-3/friendly-parakeet/assets/code%20screenshot.png)
-![alt text](/password-gen-homework-3/friendly-parakeet/assets/website.png)
+![alt text](/password-gen-homework-3/assets/code%20screenshot.png)
+![alt text](/password-gen-homework-3/assets/website.png)
 
 ## Features
 
